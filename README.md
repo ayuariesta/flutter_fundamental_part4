@@ -1,16 +1,15 @@
 # startup_namer
 
-A new Flutter project.
+Tugas hari ke 21
 
-## Getting Started
+## Create the starter Flutter app
+![Screenshot startup_namer](images/01.png)
 
-This project is a starting point for a Flutter application.
+## Use an external package
+![Screenshot startup_namer](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Add a stateful widget
+![Screenshot startup_namer](images/03.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Create an infinite scrolling ListView
+![Screenshot startup_namer](images/04.png)
